@@ -1,7 +1,7 @@
 Matteo Ferraro - CV
 ----------------
 
-Education
+🎓 Education
 ---------
 
 2021-2025 (expected)
@@ -20,14 +20,14 @@ Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 2015-2018
 :   Bachelor’s degree in **Economics** at the University of Catania, with a final dissertation on Sentiment Analysis and a final mark of 110/110 with honors. Main subjects: Microeconomics, Financial Mathematics, Macroeconomics, Applied Econometrics
 
-Workshops and Summer Schools
+📚 Workshops and Summer Schools
 ---------
 
 2023
 :   Geospatial Tools for Development summer school at Barcelona School of Economics 
 :   Causal Inference workshop on Diff-in-Diffs and RDDs by Prof. Scott Cunningham
 
-Professional experience
+👨🏻‍💻 Professional experience
 ----------
 
 Academic
@@ -39,17 +39,17 @@ Other
 :  2019, **TEDxCatania** - cash flow handling
 :  August 2015 - I helped the manager of a **FairTrade Cafè** in Bury St. Edmunds (UK)
 
-Prizes and awards
+🔧 Other stuff
 ----------
 
+Skills
+:  Programming - R, Stata, GIS, Python, SurveyCTO, basics of Dynare, MatLab, NetLogo, Gretl
+:  Editing - LATEX, Apple FinalCut, Adobe Lightroom
+:  Languages - Italian: Native, English: Fluent (CAE C1)
+
+Prizes and awards
 :  2021 - Full PhD scholarship recipient at **University of Milan-Bicocca**
 :  2015 - Competitive exam winner for the **Scuola Superiore di Catania** scholarship
 :  2014 - Promotion to **serie C** while playing for Volley Modica (position: libero)
 :  2012 to 2015 - Finalist in various high school mathematics and physics competitions
 
-Skills
-----------
-
-:  Programming - R, Stata, GIS, Python, SurveyCTO, basics of Dynare, MatLab, NetLogo, Gretl
-:  Editing - LATEX, Apple FinalCut, Adobe Lightroom
-:  Languages - Italian: Native, English: Fluent (CAE C1)

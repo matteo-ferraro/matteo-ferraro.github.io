@@ -41,6 +41,7 @@ Other
 
 Prizes and awards
 ----------
+
 :  2021 - Full PhD scholarship recipient at **University of Milan-Bicocca**
 :  2015 - Competitive exam winner for the **Scuola Superiore di Catania** scholarship
 :  2014 - Promotion to **serie C** while playing for Volley Modica (position: libero)
@@ -48,6 +49,7 @@ Prizes and awards
 
 Skills
 ----------
+
 :  Programming - R, Stata, GIS, Python, SurveyCTO, basics of Dynare, MatLab, NetLogo, Gretl
 :  Editing - LATEX, Apple FinalCut, Adobe Lightroom
 :  Languages - Italian: Native, English: Fluent (CAE C1)

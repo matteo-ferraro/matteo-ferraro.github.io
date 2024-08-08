@@ -15,7 +15,7 @@ Education
 Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 
 2018-2020
-:   Masters’s degree in **Corporate Finance **at the University of Catania, with a final dissertation on Empirical evidence of cultural convergence across Europe and a final mark of 110/110 with honors. Main subjects: Statistical Models for Financial Markets, International Economics, Probability for Finance
+:   Masters’s degree in **Corporate Finance** at the University of Catania, with a final dissertation on Empirical evidence of cultural convergence across Europe and a final mark of 110/110 with honors. Main subjects: Statistical Models for Financial Markets, International Economics, Probability for Finance
 
 2015-2018
 :   Bachelor’s degree in **Economics** at the University of Catania, with a final dissertation on Sentiment Analysis and a final mark of 110/110 with honors. Main subjects: Microeconomics, Financial Mathematics, Macroeconomics, Applied Econometrics

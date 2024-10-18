@@ -22,10 +22,15 @@ Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 
 📚 Workshops and Summer Schools
 ---------
+2024
+: Manage Successful Field Research course at World Bank
 
 2023
 :   Geospatial Tools for Development summer school at Barcelona School of Economics 
 :   Causal Inference workshop on Diff-in-Diffs and RDDs by Prof. Scott Cunningham
+
+2021
+: International summer school of Project Management at CoHEAR, University of Catania
 
 👨🏻‍💻 Professional experience
 ----------

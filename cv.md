@@ -1,6 +1,3 @@
-Matteo Ferraro - CV
-----------------
-
 🎓 Education
 ---------
 

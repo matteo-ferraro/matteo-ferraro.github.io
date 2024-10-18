@@ -1,5 +1,5 @@
-matteo ferraro
----------
+# matteo ferraro
+
 <a href="https://matteo-ferraro.github.io">[home]</a> <a href="https://matteo-ferraro.github.io/cv.html">[cv]</a>
 
 🎓 Education

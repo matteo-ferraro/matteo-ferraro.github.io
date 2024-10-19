@@ -2,7 +2,7 @@
 
 <a href="https://matteo-ferraro.github.io">[home]</a> <a href="https://matteo-ferraro.github.io/cv.html">[cv]</a>
 
-🎓 Education
+## 🎓 Education
 ---------
 
 2021-2025 (expected)

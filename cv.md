@@ -20,7 +20,7 @@ Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 2015-2018
 :   Bachelor’s degree in **Economics** at the University of Catania, with a final dissertation on Sentiment Analysis and a final mark of 110/110 with honors. Main subjects: Microeconomics, Financial Mathematics, Macroeconomics, Applied Econometrics
 
-## 📚 Workshops and Summer Schools
+## 📚 Workshops and Summer Schools
 
 2024
 : Manage Successful Field Research course at World Bank

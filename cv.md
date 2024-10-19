@@ -3,7 +3,6 @@
 <a href="https://matteo-ferraro.github.io">[home]</a> <a href="https://matteo-ferraro.github.io/cv.html">[cv]</a>
 
 ## 🎓 Education
----------
 
 2021-2025 (expected)
 :   **PhD in Economics** at the University of Milan-Bicocca, in partnership with Catholic University of the Sacred Hearth of Milan. Currently at the last year, working on my final dissertation in Development Economics. The first year was fully devoted to standard courses (e.g. Microeconomics, Econometrics, Research Methods), the second year on specific ones (e.g. Health economics, Network Economics, Python)
@@ -21,8 +20,8 @@ Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 2015-2018
 :   Bachelor’s degree in **Economics** at the University of Catania, with a final dissertation on Sentiment Analysis and a final mark of 110/110 with honors. Main subjects: Microeconomics, Financial Mathematics, Macroeconomics, Applied Econometrics
 
-📚 Workshops and Summer Schools
----------
+## 📚 Workshops and Summer Schools
+
 2024
 : Manage Successful Field Research course at World Bank
 
@@ -33,20 +32,18 @@ Computer Science, Agent-Based Models use in Macroeconomics, Game theory
 2021
 : International summer school of Project Management at CoHEAR, University of Catania
 
-👨🏻‍💻 Professional experience
-----------
+## 👨🏻‍💻 Professional experience
 
 Academic
+:  2022 to 2024, **UniMi** - lectures on Stata as teaching assistant of the course in Econometrics (undergraduate)
 :  2023, **UniMib** - Research assistant for the CPIN CARE project (∼ 75 mln health records database)
-:  2022, **UniMi** - lectures on Stata as teaching assistant of the course in Econometrics (undergraduate)
 
 Other
 :  2021, **SviMed** - database management of welfare policies recipients in the districts of Noto and Ragusa
 :  2019, **TEDxCatania** - cash flow handling
-:  August 2015 - I helped the manager of a **FairTrade Cafè** in Bury St. Edmunds (UK)
+:  2015, **FairTrade Cafè** - I helped the manager of the cafè in Bury St. Edmunds (UK)
 
-🔧 Other stuff
-----------
+## 🔧 Other stuff
 
 Skills
 :  Programming - R, Stata, GIS, Python, SurveyCTO, basics of Dynare, MatLab, NetLogo, Gretl

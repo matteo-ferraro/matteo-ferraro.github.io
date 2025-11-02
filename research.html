@@ -8,16 +8,17 @@
     <link rel="icon" href="/assets/favicon_192.png" sizes="192x192">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>matteo ferraro</title>
+    <title>matteo ferraro | research</title>
+
     <meta name="generator" content="Jekyll v3.10.0">
-    <meta property="og:title" content="matteo ferraro">
+    <meta property="og:title" content="matteo ferraro | research">
     <meta property="og:locale" content="en_US">
-    <link rel="canonical" href="https://matteo-ferraro.github.io/">
-    <meta property="og:url" content="https://matteo-ferraro.github.io/">
+    <link rel="canonical" href="https://matteo-ferraro.github.io/research.html">
+    <meta property="og:url" content="https://matteo-ferraro.github.io/research.html">
     <meta property="og:site_name" content="matteo ferraro">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
-    <meta property="twitter:title" content="matteo ferraro">
+    <meta property="twitter:title" content="matteo ferraro | research">
     <meta name="twitter:card" content="summary_large_image">
     
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CDW9TGGJZ4"></script>
@@ -123,6 +124,16 @@
             text-transform: lowercase;
         }
 
+        /* --- NEW RULE --- 
+           This removes the underline from your name when it's a link */
+        a.page-title {
+            border-bottom: none;
+        }
+        a.page-title:hover {
+            border-bottom: 1px solid #555; /* Adds hover effect back */
+        }
+        /* --- END NEW RULE --- */
+
         .header-nav {
             display: flex;
             gap: 15px; 
@@ -151,45 +162,36 @@
             text-transform: lowercase;
         }
 
-        /* --- START: NEW STYLES --- */
-
-        /* 1. Remove default margins from <p> tags inside list items */
         ul li p {
             margin: 0;
         }
 
-        /* 2. Style the new .authors paragraph */
         .authors {
-            font-size: 15px;         /* Slightly smaller */
-            color: #555555;         /* Muted gray color */
-            padding-left: 0px;      /* Indents the author line */
-            margin-top: 4px;         /* Adds a small space below the title */
+            font-size: 15px;
+            color: #555555;
+            padding-left: 0px;
+            margin-top: 4px;
         }
         
-        /* 3. (Optional) Style the author links */
         .authors a {
-            /* This changes the underline color to match the gray text */
              border-bottom-color: #555555;
         }
 
         .authors a:hover {
-            /* This makes the underline darker on hover */
             border-bottom-color: #000000;
         }
-        /* --- END: NEW STYLES --- */
 
     </style>
     
-
     <link type="application/atom+xml" rel="alternate" href="https://matteo-ferraro.github.io/feed.xml" title="matteo ferraro">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "WebSite",
-        "headline": "matteo ferraro",
+        "@type": "WebPage",
+        "headline": "matteo ferraro | research",
         "name": "matteo ferraro",
-        "url": "https://matteo-ferraro.github.io/"
+        "url": "https://matteo-ferraro.github.io/research.html"
     }
     </script>
 </head>
@@ -197,7 +199,7 @@
 
 <body>
     <div class="header">
-        <div class="page-title">matteo ferraro</div>
+        <a href="/" class="page-title">matteo ferraro</a>
         <nav class="header-nav">
             <a href="/cv.html" class="nav-button">cv</a>
             <a href="/research.html" class="nav-button">research</a>
@@ -207,33 +209,9 @@
     <div id="content">
         <div class="code" style="max-width:700px;">
             
-            <img src="me_img.jpg" alt="Profile Picture" class="profile-pic">
-             
-            I am a phd candidate in economics at  <a href="https://www.unimib.it/graduate-school/economics-and-finance">university of milan-bicocca</a> working on health and agriculture issues in developing countries.
-      
-            <h3>work in progress</h3>
+            coming soon :)
 
-            <ul>
-                <li>
-                    <p>missing markets: how to improve coffee farmers position in the global value chain</p>
-                    <p class="authors">
-                     with <a href="https://sites.google.com/view/seleneghisolfi/">selene ghisolfi</a>, <a href="https://www.jakobsvensson.com/">jakob svensson</a>, <a href="https://www.tessabold.com/">tessa bold</a> and frances nsonzi
-                    </p>
-                </li>
-                <li>
-                    <p>beaney: a ml-driven app to give tailored advices to coffee farmers</p>
-                    <p class="authors">
-                        founded by jpal - with <a href="https://sites.google.com/view/seleneghisolfi/">selene ghisolfi</a>, <a href="https://www.jakobsvensson.com/">jakob svensson</a>, <a href="https://www.tessabold.com/">tessa bold</a> and frances nsonzi
-                    </p>
-                </li>
-                <li>
-                    <p>panic at the hospital: an economic appraisal of violence against italian healthcare workers</p>
-                    <p class="authors">
-                      with <a href="https://gabrieleletta97.github.io/">gabriele letta</a>
-                    </p>
-                </li>
-            </ul>
-            </div>
+        </div>
     </div>
 </body>
 
